@@ -1,0 +1,2 @@
+- 👋 Hi, I’m rieru
+- ⌨️I'm js biginner and web programmer
